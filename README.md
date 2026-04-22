@@ -86,7 +86,7 @@ Excel-Dashboard-Project/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
